@@ -1,4 +1,4 @@
-package com.kezong.fataar
+package com.randy.fataar
 
 import com.android.build.gradle.api.LibraryVariant
 import org.gradle.api.Project
@@ -19,7 +19,7 @@ import javax.annotation.Nullable
 
 /**
  * FlavorArtifact
- * @author kezong on 2019/4/25.
+ * @author randy on 2019/4/25.
  */
 class FlavorArtifact {
 

@@ -1,4 +1,4 @@
-package com.kezong.fataar
+package com.randy.fataar
 
 import com.android.build.gradle.api.LibraryVariant
 
@@ -11,7 +11,7 @@ import org.gradle.jvm.tasks.Jar
 
 /**
  * R file processor
- * @author kezong on 2019/7/16.
+ * @author randy on 2019/7/16.
  */
 class RProcessor {
 

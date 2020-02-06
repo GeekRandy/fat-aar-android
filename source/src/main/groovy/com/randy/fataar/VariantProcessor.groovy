@@ -1,4 +1,4 @@
-package com.kezong.fataar
+package com.randy.fataar
 
 import com.android.build.gradle.api.LibraryVariant
 import com.android.build.gradle.tasks.InvokeManifestMerger
@@ -15,7 +15,7 @@ import org.gradle.api.tasks.TaskDependency
 /**
  * Processor for variant
  * Created by Vigi on 2017/2/24.
- * Modified by kezong on 2019/05/29
+ * Modified by randy on 2019/05/29
  */
 class VariantProcessor {
 

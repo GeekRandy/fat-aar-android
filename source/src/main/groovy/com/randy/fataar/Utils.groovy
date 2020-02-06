@@ -1,4 +1,4 @@
-package com.kezong.fataar
+package com.randy.fataar
 
 import org.gradle.api.Project
 
@@ -6,7 +6,7 @@ import java.lang.ref.WeakReference
 
 /**
  * Utils
- * @author kezong @since 2018-12-10 17:28
+ * @author randy @since 2018-12-10 17:28
  */
 class Utils {
 

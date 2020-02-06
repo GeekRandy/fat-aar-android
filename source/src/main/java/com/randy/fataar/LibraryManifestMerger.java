@@ -1,4 +1,4 @@
-package com.kezong.fataar;
+package com.randy.fataar;
 
 import com.android.build.gradle.internal.LoggerWrapper;
 import com.android.build.gradle.tasks.InvokeManifestMerger;
@@ -20,7 +20,7 @@ import java.util.List;
 
 /**
  * ManifestMerger for Library
- * @author kezong on 2019/7/8.
+ * @author randy on 2019/7/8.
  */
 public class LibraryManifestMerger extends InvokeManifestMerger {
 

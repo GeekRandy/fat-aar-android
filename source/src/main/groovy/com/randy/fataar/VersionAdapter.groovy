@@ -1,4 +1,4 @@
-package com.kezong.fataar
+package com.randy.fataar
 
 import com.android.build.gradle.api.LibraryVariant
 import org.gradle.api.Project
@@ -6,7 +6,7 @@ import org.gradle.api.Task
 import org.gradle.api.file.ConfigurableFileCollection
 
 /**
- * @author kezong on 2019/7/16.
+ * @author randy on 2019/7/16.
  */
 class VersionAdapter {
 

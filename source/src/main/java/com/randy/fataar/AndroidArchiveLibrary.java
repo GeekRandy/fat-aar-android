@@ -1,4 +1,4 @@
-package com.kezong.fataar;
+package com.randy.fataar;
 
 import org.gradle.api.Project;
 import org.gradle.api.artifacts.ModuleVersionIdentifier;
@@ -15,7 +15,7 @@ import javax.xml.parsers.DocumentBuilderFactory;
 
 /**
  * Created by Vigi on 2017/2/16.
- * Modify by kezong on 2019/7/16.
+ * Modify by randy on 2019/7/16.
  */
 public class AndroidArchiveLibrary {
 
